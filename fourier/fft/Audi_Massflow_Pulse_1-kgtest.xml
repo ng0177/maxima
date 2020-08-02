@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gnm:Workbook xmlns:gnm="http://www.gnumeric.org/v10.dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gnumeric.org/v9.xsd">
+  <gnm:Version Epoch="1" Major="12" Minor="47" Full="1.12.47"/>
+  <gnm:Attributes>
+    <gnm:Attribute>
+      <gnm:name>WorkbookView::show_horizontal_scrollbar</gnm:name>
+      <gnm:value>TRUE</gnm:value>
+    </gnm:Attribute>
+    <gnm:Attribute>
+      <gnm:name>WorkbookView::show_vertical_scrollbar</gnm:name>
+      <gnm:value>TRUE</gnm:value>
+    </gnm:Attribute>
+    <gnm:Attribute>
+      <gnm:name>WorkbookView::show_notebook_tabs</gnm:name>
+      <gnm:value>TRUE</gnm:value>
+    </gnm:Attribute>
+    <gnm:Attribute>
+      <gnm:name>WorkbookView::do_auto_completion</gnm:name>
+      <gnm:value>TRUE</gnm:value>
+    </gnm:Attribute>
+    <gnm:Attribute>
+      <gnm:name>WorkbookView::is_protected</gnm:name>
+      <gnm:value>FALSE</gnm:value>
+    </gnm:Attribute>
+  </gnm:Attributes>
+  <office:document-meta xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:ooo="http://openoffice.org/2004/office" office:version="1.2">
+    <office:meta>
+      <dc:date>2020-08-02T12:30:27Z</dc:date>
+      <meta:creation-date>2020-08-02T12:26:18Z</meta:creation-date>
+    </office:meta>
+  </office:document-meta>
+  <gnm:Calculation ManualRecalc="0" EnableIteration="1" MaxIterations="100" IterationTolerance="0.001" FloatRadix="2" FloatDigits="53"/>
+  <gnm:SheetNameIndex>
+    <gnm:SheetName gnm:Cols="256" gnm:Rows="65536">Audi_Massflow_Pulse_1-kgtest.csv</gnm:SheetName>
+  </gnm:SheetNameIndex>
+  <gnm:Geometry Width="915" Height="831"/>
+  <gnm:Sheets>
+    <gnm:Sheet DisplayFormulas="0" HideZero="0" HideGrid="0" HideColHeader="0" HideRowHeader="0" DisplayOutlines="1" OutlineSymbolsBelow="1" OutlineSymbolsRight="1" Visibility="GNM_SHEET_VISIBILITY_VISIBLE" GridColor="0:0:0">
+      <gnm:Name>Audi_Massflow_Pulse_1-kgtest.csv</gnm:Name>
+      <gnm:MaxCol>1</gnm:MaxCol>
+      <gnm:MaxRow>120</gnm:MaxRow>
+      <gnm:Zoom>1</gnm:Zoom>
+      <gnm:Names>
+        <gnm:Name>
+          <gnm:name>Print_Area</gnm:name>
+          <gnm:value>#REF!</gnm:value>
+          <gnm:position>A1</gnm:position>
+        </gnm:Name>
+        <gnm:Name>
+          <gnm:name>Sheet_Title</gnm:name>
+          <gnm:value>&quot;Audi_Massflow_Pulse_1-kgtest.csv&quot;</gnm:value>
+          <gnm:position>A1</gnm:position>
+        </gnm:Name>
+      </gnm:Names>
+      <gnm:PrintInformation>
+        <gnm:Margins>
+          <gnm:top Points="120" PrefUnit="mm"/>
+          <gnm:bottom Points="120" PrefUnit="mm"/>
+          <gnm:left Points="72" PrefUnit="mm"/>
+          <gnm:right Points="72" PrefUnit="mm"/>
+          <gnm:header Points="72" PrefUnit="mm"/>
+          <gnm:footer Points="72" PrefUnit="mm"/>
+        </gnm:Margins>
+        <gnm:Scale type="percentage" percentage="100"/>
+        <gnm:vcenter value="0"/>
+        <gnm:hcenter value="0"/>
+        <gnm:grid value="0"/>
+        <gnm:even_if_only_styles value="0"/>
+        <gnm:monochrome value="0"/>
+        <gnm:draft value="0"/>
+        <gnm:titles value="0"/>
+        <gnm:do_not_print value="0"/>
+        <gnm:print_range value="GNM_PRINT_ACTIVE_SHEET"/>
+        <gnm:order>d_then_r</gnm:order>
+        <gnm:orientation>portrait</gnm:orientation>
+        <gnm:Header Left="" Middle="&amp;[TAB]" Right=""/>
+        <gnm:Footer Left="" Middle="Page &amp;[PAGE]" Right=""/>
+        <gnm:paper>iso_a4</gnm:paper>
+        <gnm:comments placement="GNM_PRINT_COMMENTS_IN_PLACE"/>
+        <gnm:errors PrintErrorsAs="GNM_PRINT_ERRORS_AS_DISPLAYED"/>
+      </gnm:PrintInformation>
+      <gnm:Styles>
+        <gnm:StyleRegion startCol="0" startRow="0" endCol="255" endRow="65535">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
+            <gnm:Font Unit="10" Bold="0" Italic="0" Underline="0" StrikeThrough="0" Script="0">Sans</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+      </gnm:Styles>
+      <gnm:Cols DefaultSizePts="48">
+        <gnm:ColInfo No="0" Unit="60.75" Count="2"/>
+      </gnm:Cols>
+      <gnm:Rows DefaultSizePts="12.75">
+        <gnm:RowInfo No="0" Unit="13.5" Count="120"/>
+      </gnm:Rows>
+      <gnm:Selections CursorCol="0" CursorRow="0">
+        <gnm:Selection startCol="0" startRow="0" endCol="255" endRow="0"/>
+      </gnm:Selections>
+      <gnm:Objects>
+        <gnm:SheetObjectGraph ObjectBound="C3" AnchorMode="GNM_SO_ANCHOR_ONE_CELL" ObjectOffset="0.703 0.667 255 170" Direction="17" Print="1">
+          <GogObject type="GogGraph">
+            <property name="height-pts">170.25</property>
+            <property name="width-pts">255</property>
+            <property name="theme-name">Default</property>
+            <property name="padding-pts">7.086614173228346</property>
+            <property name="style" type="GogStyle">
+              <outline auto-dash="1" auto-width="1" auto-color="1"/>
+              <fill type="none" auto-type="1" is-auto="1" auto-fore="1"/>
+            </property>
+            <property name="anchor">top-left</property>
+            <property name="alignment">fill</property>
+            <GogObject role="Chart">
+              <property name="ypos">0</property>
+              <property name="padding-pts">7.086614173228346</property>
+              <property name="style" type="GogStyle">
+                <outline auto-dash="1" auto-width="1" auto-color="1"/>
+                <fill type="pattern" auto-type="1" is-auto="1" auto-fore="1">
+                  <pattern type="solid" fore="0:0:0:FF" back="FF:FF:FF:FF" auto-pattern="1"/>
+                </fill>
+              </property>
+              <property name="id">1</property>
+              <GogObject role="Grid">
+                <property name="style" type="GogStyle">
+                  <outline auto-dash="1" auto-width="1" auto-color="1"/>
+                  <fill type="pattern" auto-type="1" is-auto="1" auto-fore="1">
+                    <pattern type="solid" fore="0:0:0:FF" back="D0:D0:D0:FF" auto-pattern="1"/>
+                  </fill>
+                </property>
+                <property name="id">1</property>
+              </GogObject>
+              <GogObject role="X-Axis">
+                <property name="metrics-unit">none</property>
+                <property name="pos-str">low</property>
+                <property name="style" type="GogStyle">
+                  <line auto-dash="1" auto-width="1" auto-color="1"/>
+                  <font auto-color="1" auto-font="1" auto-scale="1"/>
+                  <text_layout/>
+                </property>
+                <property name="id">1</property>
+                <data/>
+              </GogObject>
+              <GogObject role="Y-Axis">
+                <property name="metrics-unit">none</property>
+                <property name="pos-str">low</property>
+                <property name="style" type="GogStyle">
+                  <line auto-dash="1" auto-width="1" auto-color="1"/>
+                  <font auto-color="1" auto-font="1" auto-scale="1"/>
+                  <text_layout/>
+                </property>
+                <property name="id">1</property>
+                <data/>
+              </GogObject>
+              <GogObject role="Plot" type="GogLinePlot">
+                <property name="default-style-has-markers">FALSE</property>
+                <property name="y-axis">1</property>
+                <property name="x-axis">1</property>
+                <property name="vary-style-by-element">FALSE</property>
+                <property name="id">1</property>
+                <GogObject role="Series">
+                  <property name="fill-type">y-origin</property>
+                  <property name="interpolation">linear</property>
+                  <property name="style" type="GogStyle">
+                    <line auto-dash="1" auto-width="1" auto-color="1"/>
+                    <marker auto-shape="0" shape="diamond" auto-outline="1" auto-fill="1" size="5"/>
+                  </property>
+                  <property name="id">1</property>
+                  <data>
+                    <dimension id="1" type="GnmGODataVector">'Audi_Massflow_Pulse_1-kgtest.csv'!$A$1:$A$9</dimension>
+                  </data>
+                </GogObject>
+                <GogObject role="Series">
+                  <property name="fill-type">y-origin</property>
+                  <property name="interpolation">linear</property>
+                  <property name="style" type="GogStyle">
+                    <line auto-dash="1" auto-width="1" auto-color="1"/>
+                    <marker auto-shape="0" shape="diamond" auto-outline="1" auto-fill="1" size="5"/>
+                  </property>
+                  <property name="id">2</property>
+                  <data>
+                    <dimension id="1" type="GnmGODataVector">'Audi_Massflow_Pulse_1-kgtest.csv'!$B$1:$B$9</dimension>
+                  </data>
+                </GogObject>
+              </GogObject>
+            </GogObject>
+          </GogObject>
+        </gnm:SheetObjectGraph>
+      </gnm:Objects>
+      <gnm:Cells>
+        <gnm:Cell Row="0" Col="0" ValueType="40">0.023245999999999999</gnm:Cell>
+        <gnm:Cell Row="0" Col="1" ValueType="40">0.023245999999999999</gnm:Cell>
+        <gnm:Cell Row="1" Col="0" ValueType="40">0.0087956000000000006</gnm:Cell>
+        <gnm:Cell Row="1" Col="1" ValueType="40">0.0087957</gnm:Cell>
+        <gnm:Cell Row="2" Col="0" ValueType="40">0.0079404000000000002</gnm:Cell>
+        <gnm:Cell Row="2" Col="1" ValueType="40">0.0079404999999999996</gnm:Cell>
+        <gnm:Cell Row="3" Col="0" ValueType="40">0.0023096000000000002</gnm:Cell>
+        <gnm:Cell Row="3" Col="1" ValueType="40">0.0023094999999999999</gnm:Cell>
+        <gnm:Cell Row="4" Col="0" ValueType="40">0.00099075000000000009</gnm:Cell>
+        <gnm:Cell Row="4" Col="1" ValueType="40">0.00099097000000000009</gnm:Cell>
+        <gnm:Cell Row="5" Col="0" ValueType="40">0.00071277000000000005</gnm:Cell>
+        <gnm:Cell Row="5" Col="1" ValueType="40">0.00071268000000000004</gnm:Cell>
+        <gnm:Cell Row="6" Col="0" ValueType="40">0.0010428</gnm:Cell>
+        <gnm:Cell Row="6" Col="1" ValueType="40">0.0010426999999999999</gnm:Cell>
+        <gnm:Cell Row="7" Col="0" ValueType="40">0.00010336</gnm:Cell>
+        <gnm:Cell Row="7" Col="1" ValueType="40">0.00010318</gnm:Cell>
+        <gnm:Cell Row="8" Col="0" ValueType="40">0.00043650999999999998</gnm:Cell>
+        <gnm:Cell Row="8" Col="1" ValueType="40">0.00043638999999999999</gnm:Cell>
+        <gnm:Cell Row="9" Col="0" ValueType="40">0.00021284</gnm:Cell>
+        <gnm:Cell Row="9" Col="1" ValueType="40">0.00021274</gnm:Cell>
+        <gnm:Cell Row="10" Col="0" ValueType="40">7.1241000000000005e-05</gnm:Cell>
+        <gnm:Cell Row="10" Col="1" ValueType="40">7.1141000000000002e-05</gnm:Cell>
+        <gnm:Cell Row="11" Col="0" ValueType="40">8.1454999999999999e-05</gnm:Cell>
+        <gnm:Cell Row="11" Col="1" ValueType="40">8.1435999999999998e-05</gnm:Cell>
+        <gnm:Cell Row="12" Col="0" ValueType="40">9.7343000000000006e-05</gnm:Cell>
+        <gnm:Cell Row="12" Col="1" ValueType="40">9.7189999999999996e-05</gnm:Cell>
+        <gnm:Cell Row="13" Col="0" ValueType="40">5.1320000000000003e-05</gnm:Cell>
+        <gnm:Cell Row="13" Col="1" ValueType="40">5.1467e-05</gnm:Cell>
+        <gnm:Cell Row="14" Col="0" ValueType="40">8.2059999999999997e-05</gnm:Cell>
+        <gnm:Cell Row="14" Col="1" ValueType="40">8.2173000000000001e-05</gnm:Cell>
+        <gnm:Cell Row="15" Col="0" ValueType="40">6.0927999999999997e-05</gnm:Cell>
+        <gnm:Cell Row="15" Col="1" ValueType="40">6.0890999999999997e-05</gnm:Cell>
+        <gnm:Cell Row="16" Col="0" ValueType="40">2.9913999999999999e-05</gnm:Cell>
+        <gnm:Cell Row="16" Col="1" ValueType="40">2.9781000000000002e-05</gnm:Cell>
+        <gnm:Cell Row="17" Col="0" ValueType="40">4.0255e-05</gnm:Cell>
+        <gnm:Cell Row="17" Col="1" ValueType="40">4.0181e-05</gnm:Cell>
+        <gnm:Cell Row="18" Col="0" ValueType="40">5.5996999999999999e-05</gnm:Cell>
+        <gnm:Cell Row="18" Col="1" ValueType="40">5.6205999999999997e-05</gnm:Cell>
+        <gnm:Cell Row="19" Col="0" ValueType="40">3.3022999999999999e-05</gnm:Cell>
+        <gnm:Cell Row="19" Col="1" ValueType="40">3.2749000000000001e-05</gnm:Cell>
+        <gnm:Cell Row="20" Col="0" ValueType="40">5.9836000000000001e-05</gnm:Cell>
+        <gnm:Cell Row="20" Col="1" ValueType="40">5.9966000000000002e-05</gnm:Cell>
+        <gnm:Cell Row="21" Col="0" ValueType="40">1.8474e-05</gnm:Cell>
+        <gnm:Cell Row="21" Col="1" ValueType="40">1.8587999999999999e-05</gnm:Cell>
+        <gnm:Cell Row="22" Col="0" ValueType="40">3.5714999999999999e-05</gnm:Cell>
+        <gnm:Cell Row="22" Col="1" ValueType="40">3.5763999999999998e-05</gnm:Cell>
+        <gnm:Cell Row="23" Col="0" ValueType="40">1.2275e-05</gnm:Cell>
+        <gnm:Cell Row="23" Col="1" ValueType="40">1.2148e-05</gnm:Cell>
+        <gnm:Cell Row="24" Col="0" ValueType="40">1.8349e-05</gnm:Cell>
+        <gnm:Cell Row="24" Col="1" ValueType="40">1.8338999999999998e-05</gnm:Cell>
+        <gnm:Cell Row="25" Col="0" ValueType="40">5.7583999999999998e-06</gnm:Cell>
+        <gnm:Cell Row="25" Col="1" ValueType="40">5.4970000000000001e-06</gnm:Cell>
+        <gnm:Cell Row="26" Col="0" ValueType="40">1.6164999999999999e-05</gnm:Cell>
+        <gnm:Cell Row="26" Col="1" ValueType="40">1.6137000000000002e-05</gnm:Cell>
+        <gnm:Cell Row="27" Col="0" ValueType="40">2.9317999999999999e-05</gnm:Cell>
+        <gnm:Cell Row="27" Col="1" ValueType="40">2.9309e-05</gnm:Cell>
+        <gnm:Cell Row="28" Col="0" ValueType="40">3.6028000000000001e-05</gnm:Cell>
+        <gnm:Cell Row="28" Col="1" ValueType="40">3.6032999999999999e-05</gnm:Cell>
+        <gnm:Cell Row="29" Col="0" ValueType="40">4.5133999999999999e-05</gnm:Cell>
+        <gnm:Cell Row="29" Col="1" ValueType="40">4.5126000000000001e-05</gnm:Cell>
+        <gnm:Cell Row="30" Col="0" ValueType="40">1.7329999999999998e-05</gnm:Cell>
+        <gnm:Cell Row="30" Col="1" ValueType="40">1.7469000000000002e-05</gnm:Cell>
+        <gnm:Cell Row="31" Col="0" ValueType="40">2.1146e-05</gnm:Cell>
+        <gnm:Cell Row="31" Col="1" ValueType="40">2.1245000000000001e-05</gnm:Cell>
+        <gnm:Cell Row="32" Col="0" ValueType="40">4.4591999999999996e-06</gnm:Cell>
+        <gnm:Cell Row="32" Col="1" ValueType="40">4.1999999999999996e-06</gnm:Cell>
+        <gnm:Cell Row="33" Col="0" ValueType="40">2.4528999999999998e-06</gnm:Cell>
+        <gnm:Cell Row="33" Col="1" ValueType="40">2.5187999999999999e-06</gnm:Cell>
+        <gnm:Cell Row="34" Col="0" ValueType="40">8.3273000000000007e-06</gnm:Cell>
+        <gnm:Cell Row="34" Col="1" ValueType="40">8.3048000000000005e-06</gnm:Cell>
+        <gnm:Cell Row="35" Col="0" ValueType="40">1.437e-05</gnm:Cell>
+        <gnm:Cell Row="35" Col="1" ValueType="40">1.4334e-05</gnm:Cell>
+        <gnm:Cell Row="36" Col="0" ValueType="40">8.2115999999999994e-06</gnm:Cell>
+        <gnm:Cell Row="36" Col="1" ValueType="40">8.1595000000000004e-06</gnm:Cell>
+        <gnm:Cell Row="37" Col="0" ValueType="40">1.2955999999999999e-05</gnm:Cell>
+        <gnm:Cell Row="37" Col="1" ValueType="40">1.2952000000000001e-05</gnm:Cell>
+        <gnm:Cell Row="38" Col="0" ValueType="40">1.7728e-06</gnm:Cell>
+        <gnm:Cell Row="38" Col="1" ValueType="40">1.6464e-06</gnm:Cell>
+        <gnm:Cell Row="39" Col="0" ValueType="40">6.1825999999999999e-06</gnm:Cell>
+        <gnm:Cell Row="39" Col="1" ValueType="40">6.0237999999999998e-06</gnm:Cell>
+        <gnm:Cell Row="40" Col="0" ValueType="40">3.4193999999999998e-06</gnm:Cell>
+        <gnm:Cell Row="40" Col="1" ValueType="40">3.4645e-06</gnm:Cell>
+        <gnm:Cell Row="41" Col="0" ValueType="40">3.8014999999999999e-06</gnm:Cell>
+        <gnm:Cell Row="41" Col="1" ValueType="40">3.8583e-06</gnm:Cell>
+        <gnm:Cell Row="42" Col="0" ValueType="40">3.1033999999999998e-06</gnm:Cell>
+        <gnm:Cell Row="42" Col="1" ValueType="40">3.2192999999999998e-06</gnm:Cell>
+        <gnm:Cell Row="43" Col="0" ValueType="40">6.2464e-06</gnm:Cell>
+        <gnm:Cell Row="43" Col="1" ValueType="40">6.3377000000000003e-06</gnm:Cell>
+        <gnm:Cell Row="44" Col="0" ValueType="40">4.7944000000000002e-06</gnm:Cell>
+        <gnm:Cell Row="44" Col="1" ValueType="40">4.6701000000000004e-06</gnm:Cell>
+        <gnm:Cell Row="45" Col="0" ValueType="40">6.0355000000000003e-07</gnm:Cell>
+        <gnm:Cell Row="45" Col="1" ValueType="40">6.7100000000000001e-07</gnm:Cell>
+        <gnm:Cell Row="46" Col="0" ValueType="40">3.4553000000000002e-06</gnm:Cell>
+        <gnm:Cell Row="46" Col="1" ValueType="40">3.6237999999999999e-06</gnm:Cell>
+        <gnm:Cell Row="47" Col="0" ValueType="40">3.1443000000000001e-06</gnm:Cell>
+        <gnm:Cell Row="47" Col="1" ValueType="40">3.0676999999999999e-06</gnm:Cell>
+        <gnm:Cell Row="48" Col="0" ValueType="40">3.1949999999999999e-06</gnm:Cell>
+        <gnm:Cell Row="48" Col="1" ValueType="40">3.2710000000000001e-06</gnm:Cell>
+        <gnm:Cell Row="49" Col="0" ValueType="40">2.1387e-06</gnm:Cell>
+        <gnm:Cell Row="49" Col="1" ValueType="40">2.0325e-06</gnm:Cell>
+        <gnm:Cell Row="50" Col="0" ValueType="40">4.4642999999999998e-06</gnm:Cell>
+        <gnm:Cell Row="50" Col="1" ValueType="40">4.6008000000000001e-06</gnm:Cell>
+        <gnm:Cell Row="51" Col="0" ValueType="40">1.4501000000000001e-06</gnm:Cell>
+        <gnm:Cell Row="51" Col="1" ValueType="40">1.389e-06</gnm:Cell>
+        <gnm:Cell Row="52" Col="0" ValueType="40">2.7738e-06</gnm:Cell>
+        <gnm:Cell Row="52" Col="1" ValueType="40">2.8696999999999998e-06</gnm:Cell>
+        <gnm:Cell Row="53" Col="0" ValueType="40">1.716e-06</gnm:Cell>
+        <gnm:Cell Row="53" Col="1" ValueType="40">1.5482000000000001e-06</gnm:Cell>
+        <gnm:Cell Row="54" Col="0" ValueType="40">5.1739999999999999e-08</gnm:Cell>
+        <gnm:Cell Row="54" Col="1" ValueType="40">1.9564e-07</gnm:Cell>
+        <gnm:Cell Row="55" Col="0" ValueType="40">1.7925e-06</gnm:Cell>
+        <gnm:Cell Row="55" Col="1" ValueType="40">1.5885999999999999e-06</gnm:Cell>
+        <gnm:Cell Row="56" Col="0" ValueType="40">1.4201e-06</gnm:Cell>
+        <gnm:Cell Row="56" Col="1" ValueType="40">1.4050000000000001e-06</gnm:Cell>
+        <gnm:Cell Row="57" Col="0" ValueType="40">1.6719e-06</gnm:Cell>
+        <gnm:Cell Row="57" Col="1" ValueType="40">1.7614e-06</gnm:Cell>
+        <gnm:Cell Row="58" Col="0" ValueType="40">1.1882999999999999e-06</gnm:Cell>
+        <gnm:Cell Row="58" Col="1" ValueType="40">1.4047000000000001e-06</gnm:Cell>
+        <gnm:Cell Row="59" Col="0" ValueType="40">2.9988e-06</gnm:Cell>
+        <gnm:Cell Row="59" Col="1" ValueType="40">2.9216999999999999e-06</gnm:Cell>
+        <gnm:Cell Row="60" Col="0" ValueType="40">1.3313000000000001e-06</gnm:Cell>
+        <gnm:Cell Row="60" Col="1" ValueType="40">1.4338999999999999e-06</gnm:Cell>
+        <gnm:Cell Row="61" Col="0" ValueType="40">1.5194e-06</gnm:Cell>
+        <gnm:Cell Row="61" Col="1" ValueType="40">1.4946000000000001e-06</gnm:Cell>
+        <gnm:Cell Row="62" Col="0" ValueType="40">1.8136000000000001e-06</gnm:Cell>
+        <gnm:Cell Row="62" Col="1" ValueType="40">1.6992e-06</gnm:Cell>
+        <gnm:Cell Row="63" Col="0" ValueType="40">4.4785999999999999e-07</gnm:Cell>
+        <gnm:Cell Row="63" Col="1" ValueType="40">4.7073999999999999e-07</gnm:Cell>
+        <gnm:Cell Row="64" Col="0" ValueType="40">2.9529000000000001e-06</gnm:Cell>
+        <gnm:Cell Row="64" Col="1" ValueType="40">2.8379e-06</gnm:Cell>
+        <gnm:Cell Row="65" Col="0" ValueType="40">9.0678000000000002e-07</gnm:Cell>
+        <gnm:Cell Row="65" Col="1" ValueType="40">7.6819000000000005e-07</gnm:Cell>
+        <gnm:Cell Row="66" Col="0" ValueType="40">2.6114999999999999e-06</gnm:Cell>
+        <gnm:Cell Row="66" Col="1" ValueType="40">2.6128000000000002e-06</gnm:Cell>
+        <gnm:Cell Row="67" Col="0" ValueType="40">5.9966999999999997e-07</gnm:Cell>
+        <gnm:Cell Row="67" Col="1" ValueType="40">6.8586000000000003e-07</gnm:Cell>
+        <gnm:Cell Row="68" Col="0" ValueType="40">1.3967999999999999e-06</gnm:Cell>
+        <gnm:Cell Row="68" Col="1" ValueType="40">1.3049e-06</gnm:Cell>
+        <gnm:Cell Row="69" Col="0" ValueType="40">6.8879999999999997e-07</gnm:Cell>
+        <gnm:Cell Row="69" Col="1" ValueType="40">8.202e-07</gnm:Cell>
+        <gnm:Cell Row="70" Col="0" ValueType="40">2.3163000000000002e-06</gnm:Cell>
+        <gnm:Cell Row="70" Col="1" ValueType="40">2.1654999999999998e-06</gnm:Cell>
+        <gnm:Cell Row="71" Col="0" ValueType="40">1.4826e-06</gnm:Cell>
+        <gnm:Cell Row="71" Col="1" ValueType="40">1.3569000000000001e-06</gnm:Cell>
+        <gnm:Cell Row="72" Col="0" ValueType="40">2.8880999999999999e-06</gnm:Cell>
+        <gnm:Cell Row="72" Col="1" ValueType="40">2.8619999999999999e-06</gnm:Cell>
+        <gnm:Cell Row="73" Col="0" ValueType="40">8.7797999999999998e-07</gnm:Cell>
+        <gnm:Cell Row="73" Col="1" ValueType="40">7.5390999999999995e-07</gnm:Cell>
+        <gnm:Cell Row="74" Col="0" ValueType="40">2.1913999999999999e-06</gnm:Cell>
+        <gnm:Cell Row="74" Col="1" ValueType="40">2.1322000000000001e-06</gnm:Cell>
+        <gnm:Cell Row="75" Col="0" ValueType="40">5.9620999999999996e-07</gnm:Cell>
+        <gnm:Cell Row="75" Col="1" ValueType="40">7.1304000000000004e-07</gnm:Cell>
+        <gnm:Cell Row="76" Col="0" ValueType="40">1.3158e-06</gnm:Cell>
+        <gnm:Cell Row="76" Col="1" ValueType="40">1.4045000000000001e-06</gnm:Cell>
+        <gnm:Cell Row="77" Col="0" ValueType="40">2.1347000000000001e-06</gnm:Cell>
+        <gnm:Cell Row="77" Col="1" ValueType="40">2.1446000000000002e-06</gnm:Cell>
+        <gnm:Cell Row="78" Col="0" ValueType="40">1.0494000000000001e-06</gnm:Cell>
+        <gnm:Cell Row="78" Col="1" ValueType="40">1.0344e-06</gnm:Cell>
+        <gnm:Cell Row="79" Col="0" ValueType="40">1.8797e-06</gnm:Cell>
+        <gnm:Cell Row="79" Col="1" ValueType="40">1.8853e-06</gnm:Cell>
+        <gnm:Cell Row="80" Col="0" ValueType="40">1.7561e-06</gnm:Cell>
+        <gnm:Cell Row="80" Col="1" ValueType="40">1.8036e-06</gnm:Cell>
+        <gnm:Cell Row="81" Col="0" ValueType="40">8.7512000000000002e-07</gnm:Cell>
+        <gnm:Cell Row="81" Col="1" ValueType="40">8.9136999999999997e-07</gnm:Cell>
+        <gnm:Cell Row="82" Col="0" ValueType="40">1.0865000000000001e-06</gnm:Cell>
+        <gnm:Cell Row="82" Col="1" ValueType="40">8.5287000000000004e-07</gnm:Cell>
+        <gnm:Cell Row="83" Col="0" ValueType="40">9.7261000000000008e-07</gnm:Cell>
+        <gnm:Cell Row="83" Col="1" ValueType="40">1.0588999999999999e-06</gnm:Cell>
+        <gnm:Cell Row="84" Col="0" ValueType="40">1.7616e-06</gnm:Cell>
+        <gnm:Cell Row="84" Col="1" ValueType="40">1.4279999999999999e-06</gnm:Cell>
+        <gnm:Cell Row="85" Col="0" ValueType="40">1.2273000000000001e-06</gnm:Cell>
+        <gnm:Cell Row="85" Col="1" ValueType="40">1.4187000000000001e-06</gnm:Cell>
+        <gnm:Cell Row="86" Col="0" ValueType="40">1.2531999999999999e-06</gnm:Cell>
+        <gnm:Cell Row="86" Col="1" ValueType="40">1.3492999999999999e-06</gnm:Cell>
+        <gnm:Cell Row="87" Col="0" ValueType="40">1.4919000000000001e-06</gnm:Cell>
+        <gnm:Cell Row="87" Col="1" ValueType="40">1.3469e-06</gnm:Cell>
+        <gnm:Cell Row="88" Col="0" ValueType="40">9.2982999999999996e-07</gnm:Cell>
+        <gnm:Cell Row="88" Col="1" ValueType="40">9.0469999999999999e-07</gnm:Cell>
+        <gnm:Cell Row="89" Col="0" ValueType="40">4.2090999999999998e-07</gnm:Cell>
+        <gnm:Cell Row="89" Col="1" ValueType="40">5.4570000000000002e-07</gnm:Cell>
+        <gnm:Cell Row="90" Col="0" ValueType="40">7.1040000000000001e-07</gnm:Cell>
+        <gnm:Cell Row="90" Col="1" ValueType="40">7.3789999999999996e-07</gnm:Cell>
+        <gnm:Cell Row="91" Col="0" ValueType="40">1.0859000000000001e-06</gnm:Cell>
+        <gnm:Cell Row="91" Col="1" ValueType="40">1.1715999999999999e-06</gnm:Cell>
+        <gnm:Cell Row="92" Col="0" ValueType="40">2.2336999999999999e-06</gnm:Cell>
+        <gnm:Cell Row="92" Col="1" ValueType="40">2.0045999999999998e-06</gnm:Cell>
+        <gnm:Cell Row="93" Col="0" ValueType="40">7.7947999999999999e-07</gnm:Cell>
+        <gnm:Cell Row="93" Col="1" ValueType="40">9.3491e-07</gnm:Cell>
+        <gnm:Cell Row="94" Col="0" ValueType="40">1.4164999999999999e-06</gnm:Cell>
+        <gnm:Cell Row="94" Col="1" ValueType="40">1.5938000000000001e-06</gnm:Cell>
+        <gnm:Cell Row="95" Col="0" ValueType="40">7.7575000000000005e-07</gnm:Cell>
+        <gnm:Cell Row="95" Col="1" ValueType="40">8.2757000000000004e-07</gnm:Cell>
+        <gnm:Cell Row="96" Col="0" ValueType="40">1.5004000000000001e-06</gnm:Cell>
+        <gnm:Cell Row="96" Col="1" ValueType="40">1.3036999999999999e-06</gnm:Cell>
+        <gnm:Cell Row="97" Col="0" ValueType="40">1.4108999999999999e-06</gnm:Cell>
+        <gnm:Cell Row="97" Col="1" ValueType="40">1.5488000000000001e-06</gnm:Cell>
+        <gnm:Cell Row="98" Col="0" ValueType="40">2.5061e-06</gnm:Cell>
+        <gnm:Cell Row="98" Col="1" ValueType="40">2.5026e-06</gnm:Cell>
+        <gnm:Cell Row="99" Col="0" ValueType="40">1.5347999999999999e-06</gnm:Cell>
+        <gnm:Cell Row="99" Col="1" ValueType="40">1.5535e-06</gnm:Cell>
+        <gnm:Cell Row="100" Col="0" ValueType="40">3.0860000000000002e-06</gnm:Cell>
+        <gnm:Cell Row="100" Col="1" ValueType="40">2.9882999999999998e-06</gnm:Cell>
+        <gnm:Cell Row="101" Col="0" ValueType="40">1.0176e-06</gnm:Cell>
+        <gnm:Cell Row="101" Col="1" ValueType="40">9.5766999999999997e-07</gnm:Cell>
+        <gnm:Cell Row="102" Col="0" ValueType="40">2.2531999999999999e-06</gnm:Cell>
+        <gnm:Cell Row="102" Col="1" ValueType="40">2.2819000000000001e-06</gnm:Cell>
+        <gnm:Cell Row="103" Col="0" ValueType="40">2.6902999999999999e-06</gnm:Cell>
+        <gnm:Cell Row="103" Col="1" ValueType="40">2.4870000000000001e-06</gnm:Cell>
+        <gnm:Cell Row="104" Col="0" ValueType="40">9.766999999999999e-07</gnm:Cell>
+        <gnm:Cell Row="104" Col="1" ValueType="40">1.1765000000000001e-06</gnm:Cell>
+        <gnm:Cell Row="105" Col="0" ValueType="40">3.6720000000000002e-06</gnm:Cell>
+        <gnm:Cell Row="105" Col="1" ValueType="40">3.6345000000000001e-06</gnm:Cell>
+        <gnm:Cell Row="106" Col="0" ValueType="40">1.3218e-06</gnm:Cell>
+        <gnm:Cell Row="106" Col="1" ValueType="40">1.677e-06</gnm:Cell>
+        <gnm:Cell Row="107" Col="0" ValueType="40">3.2204999999999999e-06</gnm:Cell>
+        <gnm:Cell Row="107" Col="1" ValueType="40">3.0817999999999999e-06</gnm:Cell>
+        <gnm:Cell Row="108" Col="0" ValueType="40">1.7517000000000001e-06</gnm:Cell>
+        <gnm:Cell Row="108" Col="1" ValueType="40">1.9267999999999999e-06</gnm:Cell>
+        <gnm:Cell Row="109" Col="0" ValueType="40">1.6272000000000001e-06</gnm:Cell>
+        <gnm:Cell Row="109" Col="1" ValueType="40">1.7598000000000001e-06</gnm:Cell>
+        <gnm:Cell Row="110" Col="0" ValueType="40">1.8504000000000001e-06</gnm:Cell>
+        <gnm:Cell Row="110" Col="1" ValueType="40">1.8459e-06</gnm:Cell>
+        <gnm:Cell Row="111" Col="0" ValueType="40">2.8519000000000002e-06</gnm:Cell>
+        <gnm:Cell Row="111" Col="1" ValueType="40">3.0753999999999998e-06</gnm:Cell>
+        <gnm:Cell Row="112" Col="0" ValueType="40">1.1023e-06</gnm:Cell>
+        <gnm:Cell Row="112" Col="1" ValueType="40">1.0639000000000001e-06</gnm:Cell>
+        <gnm:Cell Row="113" Col="0" ValueType="40">3.6264999999999999e-06</gnm:Cell>
+        <gnm:Cell Row="113" Col="1" ValueType="40">3.8252000000000002e-06</gnm:Cell>
+        <gnm:Cell Row="114" Col="0" ValueType="40">1.1872e-06</gnm:Cell>
+        <gnm:Cell Row="114" Col="1" ValueType="40">1.1755e-06</gnm:Cell>
+        <gnm:Cell Row="115" Col="0" ValueType="40">2.9857999999999999e-06</gnm:Cell>
+        <gnm:Cell Row="115" Col="1" ValueType="40">2.8022999999999998e-06</gnm:Cell>
+        <gnm:Cell Row="116" Col="0" ValueType="40">2.3437999999999999e-06</gnm:Cell>
+        <gnm:Cell Row="116" Col="1" ValueType="40">2.3456999999999998e-06</gnm:Cell>
+        <gnm:Cell Row="117" Col="0" ValueType="40">1.8711e-06</gnm:Cell>
+        <gnm:Cell Row="117" Col="1" ValueType="40">1.9155999999999999e-06</gnm:Cell>
+        <gnm:Cell Row="118" Col="0" ValueType="40">3.0319000000000001e-06</gnm:Cell>
+        <gnm:Cell Row="118" Col="1" ValueType="40">3.1200000000000002e-06</gnm:Cell>
+        <gnm:Cell Row="119" Col="0" ValueType="40">2.7951999999999999e-06</gnm:Cell>
+        <gnm:Cell Row="119" Col="1" ValueType="40">2.7020000000000001e-06</gnm:Cell>
+      </gnm:Cells>
+      <gnm:SheetLayout TopLeft="A1"/>
+      <gnm:Solver ModelType="0" ProblemType="0" MaxTime="60" MaxIter="1000" NonNeg="1" Discr="0" AutoScale="0" ProgramR="0" SensitivityR="0"/>
+    </gnm:Sheet>
+  </gnm:Sheets>
+  <gnm:UIData SelectedTab="0"/>
+</gnm:Workbook>
